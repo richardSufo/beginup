@@ -4,7 +4,7 @@
 
 /*!40101 SET NAMES utf8 */;    
 
-#cccc
+#ccccddddddd
 # Structure for table "article"
 #
 
