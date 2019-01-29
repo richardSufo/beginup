@@ -2,9 +2,9 @@
 # Date: 2017-11-22 16:38:47
 # Generator: MySQL-Front 5.4  (Build 4.153) - http://www.mysqlfront.de/
 
-/*!40101 SET NAMES utf8 */;
+/*!40101 SET NAMES utf8 */;    
 
-#
+#cccc
 # Structure for table "article"
 #
 
