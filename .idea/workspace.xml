@@ -2,9 +2,164 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd87f459-8199-4e33-a4a4-c08ec7bea85e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__com_alibaba_fastjson_1_2_54.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_mockito_mockito_core_2_23_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_spring_aop_5_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_spring_beans_5_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_spring_context_5_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_spring_core_5_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_spring_expression_5_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_spring_test_5_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_spring_tx_5_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_spring_web_5_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_2_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/example.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/logs/2019-01/heeexy-2019-01-19.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/MyApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/config/exception/CommonJsonException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/config/exception/GlobalExceptionHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/config/exception/MainsiteErrorController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/config/shiro/AjaxPermissionsAuthorizationFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/config/shiro/ShiroConfiguration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/config/shiro/UserRealm.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/config/system/DefaultView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/controller/ArticleController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/controller/LoginController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/controller/UserController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/dao/ArticleDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/dao/LoginDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/dao/PermissionDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/dao/UserDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/service/ArticleService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/service/LoginService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/service/PermissionService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/service/UserService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/service/impl/ArticleServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/service/impl/LoginServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/service/impl/PermissionServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/service/impl/UserServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/util/CommonUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/util/StringTools.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/util/constants/Constants.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/util/constants/ErrorEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/java/com/heeexy/example/util/model/One2Many.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/main.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/resources/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/resources/logback.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/resources/mapper/ArticleMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/resources/mapper/LoginMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/resources/mapper/PermissionMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/src/main/resources/mapper/UserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/MyApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/config/exception/CommonJsonException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/config/exception/GlobalExceptionHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/config/exception/MainsiteErrorController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/config/shiro/AjaxPermissionsAuthorizationFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/config/shiro/ShiroConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/config/shiro/UserRealm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/config/system/DefaultView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/controller/ArticleController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/controller/LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/controller/UserController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/dao/ArticleDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/dao/LoginDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/dao/PermissionDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/dao/UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/service/ArticleService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/service/LoginService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/service/PermissionService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/service/UserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/service/impl/ArticleServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/service/impl/LoginServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/service/impl/PermissionServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/service/impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/util/CommonUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/util/StringTools.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/util/constants/Constants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/util/constants/ErrorEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/com/heeexy/example/util/model/One2Many.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/logback.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/mapper/ArticleMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/mapper/LoginMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/mapper/PermissionMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/back/target/classes/mapper/UserMapper.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/constants/ErrorEnum.java" afterPath="$PROJECT_DIR$/src/main/java/com/heeexy/example/util/constants/ErrorEnum.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -334,12 +489,12 @@
       <workItem from="1547885092331" duration="1463000" />
       <workItem from="1548047977299" duration="28000" />
       <workItem from="1548747010008" duration="1330000" />
-      <workItem from="1548751805488" duration="981000" />
+      <workItem from="1548751805488" duration="1075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3802000" />
+    <option name="totallyTimeSpent" value="3896000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
