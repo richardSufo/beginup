@@ -1,0 +1,6 @@
+2019-01-19 22:47:24.224 INFO  --- [StartupInfoLogger.java:50][restartedMain] - Starting MyApplication on LAPTOP-MI8BLMDO with PID 24784 (E:\lxq\java\SpringBoot-Shiro-Vue-master\SpringBoot-Shiro-Vue-master\back\target\classes started by lxq in E:\lxq\java\SpringBoot-Shiro-Vue-master\SpringBoot-Shiro-Vue-master\back)
+2019-01-19 22:47:24.227 INFO  --- [SpringApplication.java:675][restartedMain] - No active profile set, falling back to default profiles: default
+2019-01-19 22:47:26.204 INFO  --- [StartupInfoLogger.java:59][restartedMain] - Started MyApplication in 2.189 seconds (JVM running for 3.793)
+2019-01-19 22:52:01.032 INFO  --- [StartupInfoLogger.java:50][restartedMain] - Starting MyApplication on LAPTOP-MI8BLMDO with PID 26472 (E:\lxq\java\SpringBoot-Shiro-Vue-master\SpringBoot-Shiro-Vue-master\back\target\classes started by lxq in E:\lxq\java\SpringBoot-Shiro-Vue-master\SpringBoot-Shiro-Vue-master\back)
+2019-01-19 22:52:01.034 INFO  --- [SpringApplication.java:675][restartedMain] - No active profile set, falling back to default profiles: default
+2019-01-19 22:52:04.844 INFO  --- [StartupInfoLogger.java:59][restartedMain] - Started MyApplication in 4.415 seconds (JVM running for 6.685)
